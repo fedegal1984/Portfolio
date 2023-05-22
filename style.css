@@ -370,6 +370,7 @@ nav{
     border-radius: 100%;
     border: solid 1px white;
     box-shadow: 1px 1px 3px 0 rgba(255, 255, 255, 0.582);
+    cursor: pointer;
     
 }
 .botones2 .buttonDer{
@@ -379,6 +380,7 @@ nav{
     border-radius: 100%;
     border: solid 1px white ;
     box-shadow: 1px 1px 3px 0 rgba(255, 255, 255, 0.582);
+    cursor: pointer;
 }
 
 
@@ -445,6 +447,7 @@ nav{
     font-weight: 500;
     color: white;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.24);
+    cursor: pointer;
 }
 
 .footerRedes{
